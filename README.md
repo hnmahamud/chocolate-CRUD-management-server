@@ -4,34 +4,34 @@ Hosted in Vercel -> [https://chocolate-management-server-hnmahamud.vercel.app/](
 
 ## API Reference
 
-#### Get all chocolates
+#### GET all chocolates
 
 ```http
-  GET /chocolates
+  /chocolates
 ```
 
-#### Get single chocolates
+#### GET single chocolates
 
 ```http
-  GET /chocolates/:id
+  /chocolates/:id
 ```
 
-#### Post single chocolates
+#### POST single chocolates
 
 ```http
-  POST /chocolates
+  /chocolates
 ```
 
-#### Update single chocolates
+#### PUT(Update) single chocolates
 
 ```http
-  PUT /chocolates/:id
+  /chocolates/:id
 ```
 
-#### Delete single chocolates
+#### DELETE single chocolates
 
 ```http
-  DELETE /chocolates/:id
+  /chocolates/:id
 ```
 
 ##Installation
